@@ -17,5 +17,5 @@ ex2:
 
 help:
 
-	@echo "\n	Type 'ex1' to start ex1(sum of signals)\n	Type 'ex2' to start ex2(cosinus)"
+	@echo "\n	Type 'make ex1' to start ex1(sum of signals)\n	Type 'make ex2' to start ex2(cosinus)"
 
